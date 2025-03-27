@@ -5,8 +5,9 @@ Este projeto realiza o processo de **ETL (Extração, Transformação e Carga)**
 ## 📂 Estrutura do Projeto
 ```
 📁 ETL_GooglePlay
-│── 📄 etl_googleplay.py       # Script de ETL para Google Play Store
-│── 📄 etl_googleplay_reviews.py # Script de ETL para reviews dos usuários
+│── 📁app - 
+📄 etl_googleplay.py       # Script de ETL para Google Play Store
+📄 etl_googleplay_reviews.py # Script de ETL para reviews dos usuários
 │── 📁 data                    # Diretório de arquivos CSV originais
 │── 📁 output                  # Diretório para armazenar os dados tratados
 │── 📄 README.md               # Documentação do projeto
