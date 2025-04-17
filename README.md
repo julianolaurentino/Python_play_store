@@ -14,7 +14,7 @@ Este projeto realiza o processo de **ETL (Extração, Transformação e Carga)**
 ```
 
 ## 🔧 Tecnologias Utilizadas
-- **Python** (Pandas, NumPy)
+- **Python** (Pandas)
 - **Tableau** (para visualização de dados)
 
 ## 🚀 Como Executar o Projeto
